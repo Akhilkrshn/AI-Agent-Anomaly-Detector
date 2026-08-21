@@ -1,0 +1,10 @@
+#Requirements for Financial Anomaly Detection AI Agent along with Dependencies & Environment Setup
+streamlit
+pandas
+openpyxl
+pyarrow
+scikit-learn
+python-dotenv
+python-docx
+groq
+numpy
