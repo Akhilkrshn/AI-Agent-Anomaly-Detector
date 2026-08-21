@@ -17,7 +17,7 @@ An enterprise-grade financial transaction auditing system and interactive AI Age
 
 2. Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Agent-Anomaly-Detector.git
+git clone https://github.com/Akhilkrshn/AI-Agent-Anomaly-Detector.git
 cd AI-Agent-Anomaly-Detector
 
 #Create virtual environment
